@@ -1,5 +1,5 @@
 var botConfig = {
-    botToken: '6084623573:AAEp7Dz6K_jL1IfoDjuNOcRLF-xmHTq1kvI',
-    chatId: '6233344384'
+    botToken: '8070880051:AAH4SmUkfbvgqXnmZ3bWXfiwcpUxnTwR_NY',
+    chatId: '1757639508'
 };
 
